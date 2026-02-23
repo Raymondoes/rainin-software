@@ -146,21 +146,18 @@
 #ending-menus {
     display: flex;
     justify-self: center;
-    align-items: center;
     margin-top: 20px;
     gap: 30px;
 }
 
 #products-section {
     display: grid;
-    justify-items: center;
-    align-items: center;
+    justify-content: center;
 }
 
 #about-company-section {
     display: grid;
-    justify-items: center;
-    align-items: center;
+    justify-content: center;
 }
 
 #product-displays {
@@ -238,3 +235,4 @@
     -webkit-user-drag: none;
 
 }
+
