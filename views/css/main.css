@@ -152,12 +152,12 @@
 
 #products-section {
     display: grid;
-    justify-content: center;
+    justify-items: center;
 }
 
 #about-company-section {
     display: grid;
-    justify-content: center;
+    justify-items: center;
 }
 
 #product-displays {
@@ -235,5 +235,6 @@
     -webkit-user-drag: none;
 
 }
+
 
 
