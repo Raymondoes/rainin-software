@@ -146,6 +146,7 @@
 #ending-menus {
     display: flex;
     justify-self: center;
+    align-items: center;
     margin-top: 20px;
     gap: 30px;
 }
@@ -153,11 +154,13 @@
 #products-section {
     display: grid;
     justify-items: center;
+    align-items: center;
 }
 
 #about-company-section {
     display: grid;
     justify-items: center;
+    align-items: center;
 }
 
 #product-displays {
@@ -184,6 +187,7 @@
 
 #the-rainin-displays {
     display: grid;
+    align-items: center;
     justify-self: center;
 }
 
@@ -232,4 +236,5 @@
     -ms-user-select: none;
     user-select: none;
     -webkit-user-drag: none;
+
 }
